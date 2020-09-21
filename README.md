@@ -1,4 +1,4 @@
-# E-commerce-scraper
+# Ecommerce-scraper
 Python program to scrape out information from flipkart/olx using BeautifulSoup and requests.
 
 # About Project
