@@ -1,4 +1,4 @@
-# ecommerce-scraper
+# E-commerce-scraper
 Python program to scrape out information from flipkart/olx using BeautifulSoup and requests.
 
 # About Project
@@ -9,11 +9,11 @@ __BeautifulSoup__ is a Python library used to scrape out information from a HTML
     * pip3 Version v20.2.3
     * BeautifulSoup v4.9.1
     
-# Setup and Installation
+# Installation
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To setup - 
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp; pip install beautifulsoup4 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp; pip install requests
 
-![Csv screenshot](https://user-images.githubusercontent.com/41678679/93743178-2d1ef780-fc0d-11ea-9747-12c278e2557b.PNG)
-![Csv screenshot](https://user-images.githubusercontent.com/41678679/93706079-76554580-fb40-11ea-838d-b902f2d644b4.PNG)
+![Csv screenshot](https://user-images.githubusercontent.com/41678679/93750412-0ebef900-fc19-11ea-98b0-8929af65e8a8.PNG =250x250)
+![Csv screenshot](https://user-images.githubusercontent.com/41678679/93750800-b50afe80-fc19-11ea-8eed-84c677be3c94.PNG =250x250)

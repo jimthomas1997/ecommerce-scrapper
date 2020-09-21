@@ -10,9 +10,8 @@ datalist=[]
 for box in list:
     dict={}
     dict['name']=box.find("div",{"class":"_3wU53n"}).text.strip()
-    #price=[i.find("span",class_="_89yzn").get_text() for i in a ]
-    dict['rating']=box.find("div","class":"hGSR34").get_text()
-    dict['price']=box.find("div",{"class":"_1vC4OE _2rQ-NK"}).text.strip()
+    dict['rating']=box.find("div",{"class":"hGSR34"}).get_text()
+    dict['price']=box.find("div",{"class":"_1vC4OE _2rQ-NK"}).text.replace("₹","Rs.").strip()
     datalist.append(dict)
 print(dict)
 
