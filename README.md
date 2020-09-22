@@ -15,5 +15,8 @@ __BeautifulSoup__ is a Python library used to scrape out information from a HTML
 &nbsp;&nbsp;&nbsp;&nbsp; pip install beautifulsoup4 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp; pip install requests
 
-![Csv screenshot](https://user-images.githubusercontent.com/41678679/93750412-0ebef900-fc19-11ea-98b0-8929af65e8a8.PNG )
-![Csv screenshot](https://user-images.githubusercontent.com/41678679/93750800-b50afe80-fc19-11ea-8eed-84c677be3c94.PNG )
+# Screenshot
+<div class="row">
+<img src="https://user-images.githubusercontent.com/41678679/93750412-0ebef900-fc19-11ea-98b0-8929af65e8a8.PNG" width="30%">
+<img src="https://user-images.githubusercontent.com/41678679/93750800-b50afe80-fc19-11ea-8eed-84c677be3c94.PNG" width="30%">
+</div>
