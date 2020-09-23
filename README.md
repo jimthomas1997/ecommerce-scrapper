@@ -17,8 +17,8 @@ __BeautifulSoup__ is a Python library used to scrape out information from a HTML
 
 # Screenshot of the Excel file generated
 <div class="row">
-<img src="https://user-images.githubusercontent.com/41678679/93750412-0ebef900-fc19-11ea-98b0-8929af65e8a8.PNG" >
-<img src="https://user-images.githubusercontent.com/41678679/93750800-b50afe80-fc19-11ea-8eed-84c677be3c94.PNG" >
+<img src="https://user-images.githubusercontent.com/41678679/93750412-0ebef900-fc19-11ea-98b0-8929af65e8a8.PNG" width="50%" height="50%">
+<img src="https://user-images.githubusercontent.com/41678679/93750800-b50afe80-fc19-11ea-8eed-84c677be3c94.PNG" width="50%" height="50%">
 </div>
 
 # Screenshot of the graphs generated
